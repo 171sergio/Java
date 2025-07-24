@@ -1,0 +1,13 @@
+
+        /*
+         Selecionar:
+            -"Eventos"
+                -Eventos criados, incluindo nome, data, hora, local e receita total gerada + Ingressos vendidos e disponiveis
+                    *Ao selecionar evento especifico*
+                    -Compra de ingressos
+                    -Informaçoes
+                        -Levantamento dos ingressos vendidos, exibindo a data de venda, o tipo do ingresso, e seu valor
+                        -Receita total gerada pela venda de ingressos para o evento
+                -Receita total acumulada
+
+         */
